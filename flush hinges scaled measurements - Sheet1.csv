@@ -1,0 +1,9 @@
+pixel measurement,label code,distance (mm),distance (mm),distance (mm),,description
+499,H1,70.0,60.0,50.0,,full height
+253,H2,35.5,30.4,25.4,,height of small arm
+147,W1,20.6,17.7,14.7,,width of large arm
+79,W2,11.1,9.5,7.9,,width of small arm
+106,C1,14.9,12.7,10.6,,pin barrel to widest set hole centre
+391,C2,54.8,47.0,39.2,,centres between upper and lower holes on large arm
+179,C3,25.1,21.5,17.9,,centres between holes on small arm
+51,C4,7.2,6.1,5.1,,pin barrel to hole centres on small arm
